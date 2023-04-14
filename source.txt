@@ -1,0 +1,19 @@
+other pics : https://www.freepik.com/
+
+Portrait pictures : https://www.freepik.com/photos/portrait
+Pets pictures : https://www.freepik.com/search?format=search&query=Pets
+Projects pictures : https://www.freepik.com/search?format=search&query=Projects
+Hobbies pictures : https://www.freepik.com/search?format=search&page=2&query=hobbies
+
+CSS : Bootstrap v4.3.1 (https://getbootstrap.com/)
+	https://tympanus.net/Development/HoverEffectIdeas/
+	https://fontawesome.com
+
+JavaScript : http://pixelcog.github.io/parallax.js/
+		 http://isotope.metafizzy.co
+		 http://dimsemenov.com/plugins/magnific-popup/
+		 https://codepen.io/TimRizzo/details/ervrRq
+		 http://kenwheeler.github.io
+    		 http://kenwheeler.github.io/slick
+	 	 http://github.com/kenwheeler/slick
+		 http://github.com/kenwheeler/slick/issues
